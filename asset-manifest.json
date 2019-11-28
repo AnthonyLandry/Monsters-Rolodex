@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AnthonyLandry/Monsters-Rolodex.git/static/css/main.5b990a0f.chunk.css",
+    "main.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/main.12d5db4d.chunk.js",
+    "main.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/main.12d5db4d.chunk.js.map",
+    "runtime-main.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/runtime-main.4fda4e1b.js",
+    "runtime-main.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/runtime-main.4fda4e1b.js.map",
+    "static/js/2.77688bae.chunk.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/2.77688bae.chunk.js",
+    "static/js/2.77688bae.chunk.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/2.77688bae.chunk.js.map",
+    "index.html": "/AnthonyLandry/Monsters-Rolodex.git/index.html",
+    "precache-manifest.087d5112ac6aed113932b835ff922822.js": "/AnthonyLandry/Monsters-Rolodex.git/precache-manifest.087d5112ac6aed113932b835ff922822.js",
+    "service-worker.js": "/AnthonyLandry/Monsters-Rolodex.git/service-worker.js",
+    "static/css/main.5b990a0f.chunk.css.map": "/AnthonyLandry/Monsters-Rolodex.git/static/css/main.5b990a0f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fda4e1b.js",
+    "static/js/2.77688bae.chunk.js",
+    "static/css/main.5b990a0f.chunk.css",
+    "static/js/main.12d5db4d.chunk.js"
+  ]
+}
