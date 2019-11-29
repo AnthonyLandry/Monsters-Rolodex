@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AnthonyLandry/Monsters-Rolodex.git/static/css/main.5b990a0f.chunk.css",
-    "main.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/main.12d5db4d.chunk.js",
-    "main.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/main.12d5db4d.chunk.js.map",
-    "runtime-main.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/runtime-main.4fda4e1b.js",
-    "runtime-main.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/runtime-main.4fda4e1b.js.map",
-    "static/js/2.77688bae.chunk.js": "/AnthonyLandry/Monsters-Rolodex.git/static/js/2.77688bae.chunk.js",
-    "static/js/2.77688bae.chunk.js.map": "/AnthonyLandry/Monsters-Rolodex.git/static/js/2.77688bae.chunk.js.map",
-    "index.html": "/AnthonyLandry/Monsters-Rolodex.git/index.html",
-    "precache-manifest.087d5112ac6aed113932b835ff922822.js": "/AnthonyLandry/Monsters-Rolodex.git/precache-manifest.087d5112ac6aed113932b835ff922822.js",
-    "service-worker.js": "/AnthonyLandry/Monsters-Rolodex.git/service-worker.js",
-    "static/css/main.5b990a0f.chunk.css.map": "/AnthonyLandry/Monsters-Rolodex.git/static/css/main.5b990a0f.chunk.css.map"
+    "main.css": "/Monsters-Rolodex/static/css/main.5b990a0f.chunk.css",
+    "main.js": "/Monsters-Rolodex/static/js/main.fbb1ee7f.chunk.js",
+    "main.js.map": "/Monsters-Rolodex/static/js/main.fbb1ee7f.chunk.js.map",
+    "runtime-main.js": "/Monsters-Rolodex/static/js/runtime-main.e3ed63f9.js",
+    "runtime-main.js.map": "/Monsters-Rolodex/static/js/runtime-main.e3ed63f9.js.map",
+    "static/js/2.77688bae.chunk.js": "/Monsters-Rolodex/static/js/2.77688bae.chunk.js",
+    "static/js/2.77688bae.chunk.js.map": "/Monsters-Rolodex/static/js/2.77688bae.chunk.js.map",
+    "index.html": "/Monsters-Rolodex/index.html",
+    "precache-manifest.ec41e3f6e763d969f3b7a70be32d9d8a.js": "/Monsters-Rolodex/precache-manifest.ec41e3f6e763d969f3b7a70be32d9d8a.js",
+    "service-worker.js": "/Monsters-Rolodex/service-worker.js",
+    "static/css/main.5b990a0f.chunk.css.map": "/Monsters-Rolodex/static/css/main.5b990a0f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fda4e1b.js",
+    "static/js/runtime-main.e3ed63f9.js",
     "static/js/2.77688bae.chunk.js",
     "static/css/main.5b990a0f.chunk.css",
-    "static/js/main.12d5db4d.chunk.js"
+    "static/js/main.fbb1ee7f.chunk.js"
   ]
 }
